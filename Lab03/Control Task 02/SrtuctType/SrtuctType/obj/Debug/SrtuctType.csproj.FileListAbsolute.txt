@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Lab03\Control Task 02\SrtuctType\SrtuctType\obj\Debug\SrtuctType.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Lab03\Control Task 02\SrtuctType\SrtuctType\obj\Debug\SrtuctType.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Lab03\Control Task 02\SrtuctType\SrtuctType\bin\Debug\SrtuctType.exe.config
+D:\C#Learning\Labs\Lab03\Control Task 02\SrtuctType\SrtuctType\bin\Debug\SrtuctType.exe
+D:\C#Learning\Labs\Lab03\Control Task 02\SrtuctType\SrtuctType\bin\Debug\SrtuctType.pdb
+D:\C#Learning\Labs\Lab03\Control Task 02\SrtuctType\SrtuctType\obj\Debug\SrtuctType.exe
+D:\C#Learning\Labs\Lab03\Control Task 02\SrtuctType\SrtuctType\obj\Debug\SrtuctType.pdb
